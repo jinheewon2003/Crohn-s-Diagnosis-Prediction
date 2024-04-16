@@ -31,7 +31,7 @@ To run the code:
 2. Clone this repository to your local machine.
 3. Install the required Python packages: `pip install pandas scikit-learn tensorflow numpy`.
 4. Download the dataset from the provided link and place it in the repository directory.
-5. Run the Python script `random_forest_classifier.py`.
+5. Run the Python script `main.py`.
 
 ## Results
 
